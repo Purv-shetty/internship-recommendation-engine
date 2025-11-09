@@ -1,0 +1,12 @@
+D:\PMInternshipPortal\src\main\java\com\pminternship\dao\InternshipDAO.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\dao\UserDAO.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\model\Candidate.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\model\Internship.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\model\User.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\servlet\LoginServlet.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\servlet\LogoutServlet.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\servlet\ProfileServlet.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\servlet\RecommendationServlet.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\servlet\RegisterServlet.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\servlet\SearchInternshipServlet.java
+D:\PMInternshipPortal\src\main\java\com\pminternship\util\DBConnection.java

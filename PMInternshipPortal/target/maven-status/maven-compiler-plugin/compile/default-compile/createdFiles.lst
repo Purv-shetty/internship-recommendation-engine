@@ -1,0 +1,12 @@
+com\pminternship\servlet\RegisterServlet.class
+com\pminternship\util\DBConnection.class
+com\pminternship\servlet\RecommendationServlet.class
+com\pminternship\servlet\ProfileServlet.class
+com\pminternship\servlet\SearchInternshipServlet.class
+com\pminternship\model\Internship.class
+com\pminternship\model\Candidate.class
+com\pminternship\dao\InternshipDAO.class
+com\pminternship\model\User.class
+com\pminternship\servlet\LoginServlet.class
+com\pminternship\dao\UserDAO.class
+com\pminternship\servlet\LogoutServlet.class
